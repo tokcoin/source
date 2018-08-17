@@ -1,10 +1,17 @@
-Tokcoin - Perfect for your internet shopping
+What is Tokcoin?
+
 
 Tokcoin is a hybrid Proof of Work (PoW) / Proof-of-Stake (PoS) version 3.0 decentralized Peer-to-Peer and Business to Business cryptocurrency hardfork novacoin.
 
 The Proof of Work part of Tokcoin is based on the Scrypt hashing algorithm. Proof-of-Stake (PoS) contributes to the coins energy efficiency, as there is no need for nodes to contribute mining power to part of the money creation process.
 
 As of now, Tokcoin is set to be capped at 65 million coins.
+
+
+Testing
+
+Testing and code review is the bottleneck for development; we get more pull requests than we can review and test on short notice. Please be patient and help out by testing other people's pull requests, and remember this is a security-critical project where any mistake might cost people lots of money.
+
 
 ================================================================================
 
