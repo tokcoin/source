@@ -11,14 +11,22 @@ As of now, Tokcoin is set to be capped at 65 million coins.
 Technical details - TokCoin (GTOK)
 
 Name: Tokcoin
+
 Simbolo : GTOK
+
 Scrypt PoW/PoS Hibrido
+
 Times blocks: 60 seg
+
 Verbal timestamp: 5 minutes
+
 Block Reward: 5 GTOK
+
 Total Supply: 65.000,000 million GTOK
 
+
 Premine 30%: 19.500,000 million GTOK
+
 Last PoW block: 50000 block
 
 RPC Port: 39584
