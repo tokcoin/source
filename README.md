@@ -21,8 +21,11 @@ Technical details - TokCoin (GTOK)
 
 
 Name: Tokcoin
+
 Simbolo : GTOK
+
 Scrypt PoW/PoS Hibrido
+
 Times blocks: 60 seg
 
 Verbal timestamp: 5 minutes
